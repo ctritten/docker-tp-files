@@ -1,3 +1,3 @@
-# static-tp-files
+# docker-tp-files
 
-Static files for Docker Courses.
+fichiers pour la formation Docker
